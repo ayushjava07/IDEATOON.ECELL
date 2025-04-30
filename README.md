@@ -1,4 +1,5 @@
-#🔗link: -https://ayushjava07.github.io/IDEATOON.ECELL/
+# 🔗link
+https://ayushjava07.github.io/IDEATOON.ECELL/
 # E-Cell Event Landing Page
 
 A mobile-friendly landing page for an entrepreneurship cell event, with animated features, countdown timer, and interactive areas.
