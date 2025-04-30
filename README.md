@@ -1,3 +1,4 @@
+#💻PLZ OPEN ON PC IF POSSIBLE !!
 # 🔗link
 https://ayushjava07.github.io/IDEATOON.ECELL/
 # E-Cell Event Landing Page
