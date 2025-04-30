@@ -67,7 +67,7 @@ function timer(){
 function threedhoveranimation(){
     document.addEventListener("DOMContentLoaded",function(){
         gsap.to("#box",{
-            y:-30,
+            y:-20,
             duration:3,
             yoyo:true,
             repeat:-1,
