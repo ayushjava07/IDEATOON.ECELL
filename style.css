@@ -463,6 +463,7 @@ html , body{
 }
 #string{
     position: absolute;
+    display: none;
     /* top: 20vh; */
     top: 6%;
     left: 50%;
@@ -479,6 +480,7 @@ html , body{
 
 #hangerman{
     position: absolute;
+    display: none;
     width: 13vh;
     height: 20vh;
     /* background: #000;  */
@@ -499,7 +501,7 @@ html , body{
     /* background: #000;  */
     left: 88.4%;
     top: 8.7%;
-    
+    display: none;
 
 }
 #hangerman2 img{
